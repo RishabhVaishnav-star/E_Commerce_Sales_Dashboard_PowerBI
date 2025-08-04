@@ -1,4 +1,4 @@
-# FUTURE_DS_01
+# Ecommerce Sales Dashboard
 
 Task 1: Ecommerce Sales Dashboard
 
